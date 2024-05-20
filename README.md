@@ -1,12 +1,11 @@
 # Accompaniment-Extractor-and-Pitch-Shifter
 用Facebook開發的Demucs model和Librosa等Python packages寫的簡單線上伴奏分離及移調程式(在Colab上運行)　　　　
+內含中文說明，日後會上傳英文版本的使用說明．
 
 A simple online accompaniment extraction and transposition tool developed using Facebook's Demucs model and Librosa, running on Colab.　　　　
 
 [Accompaniment extraction and transposition toolChinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
-The tutorial was written 
 
-內含中文說明，日後會上傳英文版本的使用說明．
 The tutorial in this colab is written in Chinese. An English version will be added in the future.
 Feel free to use it even if you don't the tutorial, all you need to do is:
 1. Upload your audio( can be .wav, .mp3, .mp4, please use a filename without space or wierd characters)
