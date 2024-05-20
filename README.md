@@ -1,11 +1,21 @@
 # Accompaniment-Extractor-and-Pitch-Shifter
-用Facebook開發的Demucs model和Librosa等Python packages寫的簡單線上移調程式(在Colab上運行)　　　　
+用Facebook開發的Demucs model和Librosa等Python packages寫的簡單線上伴奏分離及移調程式(在Colab上運行)　　　　
 
-A simple online transposition tool developed using Facebook's Demucs model and Librosa, running on Colab.　　　　
+A simple online accompaniment extraction and transposition tool developed using Facebook's Demucs model and Librosa, running on Colab.　　　　
 
-[A colab online transposition tool(Chinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
+[Accompaniment extraction and transposition toolChinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
+The tutorial was written 
 
-內含中文說明，日後會上傳英文版本的使用說明．　　　　
+內含中文說明，日後會上傳英文版本的使用說明．
+The tutorial in this colab is written in Chinese. An English version will be added in the future.
+Feel free to use it even if you don't the tutorial, all you need to do is:
+1. Upload your audio( can be .wav, .mp3, .mp4, please use a filename without space or wierd characters)
+2. Choose the transposition
+3. Change the output_file_path variable to your uploaded filename.
+4. Run all cells.
+5. Download the output.wav(or .mp3)
+If you upload a long audio or .wav or .mp4 file, it may take a long time to upload. Please check the audio file is uploaded before your run the final cell.
+
 
 ## Overview
 This project is a simple online transposition tool developed using Facebook's Demucs(HTDemucs) model and Librosa, running on Colab. It allows users to separate accompaniment and transpose music tracks easily.
