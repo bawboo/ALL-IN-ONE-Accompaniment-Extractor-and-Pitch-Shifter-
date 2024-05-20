@@ -5,7 +5,7 @@
 
 A simple online accompaniment extraction and transposition tool developed using Facebook's Demucs model and Librosa, running on Colab.　　　　
 
-[Accompaniment extraction and transposition toolChinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
+[Accompaniment extraction and transposition tool (Chinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
 
 The tutorial in this colab is written in Chinese. An English version will be added in the future.
 Feel free to use it even if you don't the tutorial, all you need to do is:
