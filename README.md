@@ -9,11 +9,11 @@ A simple online accompaniment extraction and transposition tool developed using 
 
 The tutorial in this colab is written in Chinese. An English version will be added in the future.
 Feel free to use it even if you don't understand the tutorial in the notebook, all you need to do is:
-1. Upload your audio( can be .wav, .mp3, .mp4, please use a filename without space or wierd characters)
-2. Choose the transposition
+1. Upload your audio file( can be .wav, .mp3, .mp4, please use a filename without space or wierd characters).
+2. Choose the transposition.
 3. Change the output_file_path variable to your uploaded filename.
 4. Run all cells.
-5. Download the output.wav(or .mp3)
+5. Download the output.wav(or .mp3).
 If you upload a long audio or .wav or .mp4 file, it may take a long time to upload. Please check the audio file is uploaded before your run the final cell.
 
 
