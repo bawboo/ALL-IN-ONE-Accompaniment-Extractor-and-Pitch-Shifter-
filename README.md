@@ -8,7 +8,7 @@ A simple online accompaniment extraction and transposition tool developed using 
 [Accompaniment extraction and transposition tool (Chinese Version)](https://colab.research.google.com/drive/1MHk0PrDqzQPvazmfEav2l30bEPGcjF17?hl=zh-tw#scrollTo=WCwMs05xjh80)
 
 The tutorial in this colab is written in Chinese. An English version will be added in the future.
-Feel free to use it even if you don't the tutorial, all you need to do is:
+Feel free to use it even if you don't understand the tutorial in the notebook, all you need to do is:
 1. Upload your audio( can be .wav, .mp3, .mp4, please use a filename without space or wierd characters)
 2. Choose the transposition
 3. Change the output_file_path variable to your uploaded filename.
